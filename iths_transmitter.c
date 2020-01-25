@@ -2,14 +2,6 @@
  * iths_transmitter.c - creates beacons and forwards iths messages from Bluetooth over WSMP.
 *
 ********************************************************************************************************
-* Copyright ï¿½ Sanford Gabrielle, Ed Hall, Nicolas McMahon, Phil Pfeiffer
-* All Rights Reserved
-*
-* You may use, distribute and modify this code under the terms of the XYZ license.
-*
-* You should have received a copy of the XYZ license with this file.
-* If not, please write to: , or visit :
-********************************************************************************************************
 *
 * Inputs:
 *
@@ -29,11 +21,11 @@
 *
 * Outputs:
 *
-*  -.  final status codes:
+*  -.  final status codes: none
 *
-*  -.  standard output:
+*  -.  standard output: none
 *
-*  -.  standard error:
+*  -.  standard error: none
 *
 * Effects:
 *
